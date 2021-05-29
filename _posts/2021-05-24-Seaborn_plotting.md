@@ -13543,6 +13543,7 @@ Interactuan con matplotlib a través de un objeto seaborn.
  ## ```Stripplot Swarmplot Boxplot Violinplot Pointplot Barplot```
 
 # Bar plot 
+
 Muestra estimaciones puntuales e intervalos de confianza como barras rectangulares.
 También es importante tener en cuenta que un gráfico de barras muestra solo el valor medio (u otro estimador),
 pero en muchos casos puede ser más informativo mostrar la distribución de valores en cada nivel de las variables categóricas.

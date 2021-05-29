@@ -34,8 +34,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 ######## MINE #########
-paginate: 5
+paginate: 3
 #paginate_path: "/blog/page:num/"
+## docs folder for github
+destination: docs/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
