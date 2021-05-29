@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site to host the content of the repository
   and maybe something more...
 baseurl: "/Test3" # the subpath of your site, e.g. /blog
-url: "https://czg-es.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://czg-es.github.io/Test3" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  czg-es
 
