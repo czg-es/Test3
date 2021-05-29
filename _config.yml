@@ -35,7 +35,7 @@ plugins:
   - jekyll-paginate
 ######## MINE #########
 paginate: 3
-paginate_path: "docs/page:num/"
+# paginate_path: "docs/page:num/"
 ## docs folder for github
 destination: docs/
 
